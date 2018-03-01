@@ -18,10 +18,10 @@ const Nav = (props) =>
             <Link className="nav-link text-light" to="/about">About</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link text-light" to="/products">Portfolio</Link>
+            <Link className="nav-link text-light" to="/portfolio">Portfolio</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link text-light" to="/cart">Contact</Link>
+            <Link className="nav-link text-light" to="/contact">Contact</Link>
           </li>
         </ul>
         {/* <span 
