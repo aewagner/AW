@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Nav.css";
 
-const Nav = (props) =>
+const Nav = () =>
   <nav className="navbar navbar-expand-lg navbar-dark navbar-top justify-content-end bg-transparent">
     <div className="container-fluid">
       <Link to="/" className="navbar-brand text-danger">
