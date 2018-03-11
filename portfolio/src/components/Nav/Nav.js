@@ -5,8 +5,8 @@ import "./Nav.css";
 const Nav = () =>
   <nav className="navbar navbar-expand-lg navbar-dark navbar-top justify-content-end bg-transparent">
     <div className="container-fluid">
-      <Link to="/" className="navbar-brand text-danger">
-     {/* <img src="./img//tgb-logo-03.png" alt="The Good Book"/> */}
+      <Link to="/" className="navbar-brand text-danger nav-logo">
+        {/* <img src="./img//tgb-logo-03.png" alt="The Good Book"/> */}
         AW
       </Link>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,6 +14,9 @@ const Nav = () =>
       </button>
       <div className="collapse navbar-collapse" id="navbarText">
         <ul className="navbar-nav ml-auto">
+          <li className="nav-item">
+            <Link className="nav-link text-light" to="/">Home</Link>
+          </li>
           <li className="nav-item">
             <Link className="nav-link text-light" to="/about">About</Link>
           </li>

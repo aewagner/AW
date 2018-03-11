@@ -2,10 +2,10 @@ body {
   font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: whitesmoke;
   background-image: url("./PA022198.jpg");
-  background-color: black;
+  background-color: rgb(143, 142, 142);
   background-repeat: no-repeat;
   background-size: cover;
-  overflow: scroll;
+  overflow: auto;
   margin: 0;
   padding: 0;
 }

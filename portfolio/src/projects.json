@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "React-Redux Blog",
+    "image": "images/blog.png",
+    "alt": "React-Redux Blog",
+    "github": "I love that my edibles come in a descrete 'book' box!",
+    "live": ""
+  },
+  {
+    "id": 2,
+    "title": "React Memory Game",
+    "image": "./images/clickyGame.png",
+    "alt": "Clicky Game",
+    "github": "https://github.com/aewagner/Clicky-Game",
+    "live": "https://aewagner.github.io/Clicky-Game/"
+  },
+  {
+    "id": 3,
+    "title": "Crypto-Currency Portfolio",
+    "image": "images/cryptolio.png",
+    "alt": "Cryptolio",
+    "github": "https://github.com/brohlson/cryptolio",
+    "live": "https://fathomless-inlet-17347.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "title": "React-Redux Weather App",
+    "image": "images/fiveDayForecast.png",
+    "alt": "React-Redux Five Day Forecaster",
+    "github": "https://github.com/aewagner/React-FiveDayWeather",
+    "live": "https://reactfivedayforecaster.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Site",
+    "image": "images/theGoodBook.png",
+    "alt": "The Good Book E-commerce Site",
+    "github": "https://github.com/cooploops/thegoodbook",
+    "live": "https://thegoodbook.herokuapp.com/"
+  },
+  {
+    "id": 6,
+    "title": "Incremental YouTube Search",
+    "image": "images/youTube.png",
+    "alt": "Incremental YouTube Search",
+    "github": "https://github.com/aewagner/React-YouTubeSearch",
+    "live": "https://aewagner.github.io/React-YouTubeSearch/"
+  }
+]
