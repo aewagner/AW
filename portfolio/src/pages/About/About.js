@@ -15,7 +15,7 @@ const About = () => (
                         <p>
                             My interest in coding began with using statistical software for my graduate school thesis and has continued to grow. Coding is fun and meditative, because it offers an outlet for my obsession with with organization, detail, and numbers.
                         </p>
-                        <p>
+                        <p className="last-p">
                             Currently I am proficient in JavaScript, HTML5, CSS, Bootstrap, jQuery, SQL, mySQL, MongoDB, Express.js, React.js, and Node.js
                         </p>
 

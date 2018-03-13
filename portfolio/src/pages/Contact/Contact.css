@@ -1,0 +1,7 @@
+.email-link {
+    color: whitesmoke;
+}
+
+.email-link > a:visited,  a:hover {
+    text-decoration: none;
+}

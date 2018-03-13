@@ -16,19 +16,24 @@ const Home = () => (
                     <div className="container-fluid">
                         <div className="links">
                             <div className="row">
-                                <div className="col-lg-4">
+                                <div className="col-lg-3 col-sm-3">
                                     <a href="https://github.com/aewagner" target="new">
                                         <img src="images/github.svg" alt="GitHub" className="img-links img-fluid"></img>
                                     </a>
                                 </div>
-                                <div className="col-lg-4">
+                                <div className="col-lg-3 col-sm-3">
                                     <a href="https://www.linkedin.com/in/austinewagner/" target="new">
                                         <img src="images/linkedin.svg" alt="linkedIn" className="img-links img-fluid" id="img-linkedin"></img>
                                     </a>
                                 </div>
-                                <div className="col-lg-4">
+                                <div className="col-lg-3 col-sm-3">
+                                    <a href="https://angel.co/aewagner" target="new">
+                                        <img src="images/angellist-black.svg" alt="AngelList" className="img-links img-fluid"></img>
+                                    </a>
+                                </div>
+                                <div className="col-lg-3 col-sm-3 email-icon">
                                     <a href="mailto:austin.e.wagner@gmail.com" target="new">
-                                        <img src="images/email2.svg" alt="email" className="img-links img-fluid"></img>
+                                        <img src="images/email.svg" alt="email" className="img-links img-fluid"></img>
                                     </a>
                                 </div>
                             </div>
